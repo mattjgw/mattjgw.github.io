@@ -21,12 +21,13 @@ body{
 /* Covershot */
 
 #covershot{
-	min-height: 250px;
-	background: url('../images/Professional Head Shot.jpg') no-repeat 50%, 10px;
+	min-height: 400px;
+	background: url('../images/Professional Head Shot.jpg') no-repeat 50%;
 	text-align: center;
 	color: #FFFFFF;
 	margin-bottom: 0px;
 	padding-bottom: 0px;
+	background-size: 500px;
 }
 
 /* Name and Program */
@@ -35,6 +36,8 @@ body{
 	float: top;
 	vertical-align: top;
 	padding: 0px;
+	color: #FFFFFF;
+	font-size: 250%;
 }
 
 /* Boxes */
